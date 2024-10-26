@@ -1,0 +1,183 @@
+*{
+    font-family: cursive;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.outline{
+    background-image: url(images.jpg);
+    width: 100%;
+    height: 60%;
+    background-size: cover;
+padding-bottom: 100px;
+}
+.h{
+    color: white;
+    font-weight: 500;
+    padding-top: 1.3rem;
+    font-weight: bolder;
+    font-family: cursive;
+}
+.vehicle{
+    height: 4rem;
+    width: 10rem;
+    background-color: orange;
+    color: black;
+    padding-top: 10px;
+    text-align: center;
+    font-size: large;
+    font-family: cursive;
+}
+.second-nav{
+    background-color: black;
+    width: 50%;
+    height: auto;
+}
+#who{
+    color: orange;
+    font-size: 2rem;
+    padding-top: 2rem;
+}
+.info{
+    color: white;
+}
+.info2{
+    color: white;
+}
+.list{
+    display: flex;
+}
+.pic{
+    width: 50%;
+    height: auto;
+    background-color: black;
+    display: flex;
+align-items: center;
+padding-left: 8rem;
+}
+.image{
+width: 65%;
+height: 65%;
+display: flex;
+align-items: center;
+}
+.navbar{
+    background-color:black;
+}
+.res{
+    height: auto;
+    width: 33%;
+}
+.dropdown-item{
+    color: white;
+}
+.dropdown-menu{
+    color: white;
+}
+.report{
+    height: auto;
+    width: 100%;
+    border: 2px;
+    background-color: orange;
+    padding-right: 7rem;
+    margin-right: 7rem;
+    padding-bottom: 1rem;
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+    align-items: center;
+    justify-content: center;
+}
+.third-nav{
+    background-color: #707070;
+    height: auto;
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+
+}
+.our{
+    width: 50%;
+    height: auto;
+    text-align: center;
+}
+.hed{
+    font-size: 2rem;
+    width: 50%;
+    color: orange;
+}
+.sav{
+    width: 50%;
+    text-align: center;
+    color: white;
+    padding-top: 1.5rem;
+    padding-right: 2rem;
+}
+.com{
+    color: white;
+}
+.his{
+    color:orange;
+}
+.car{
+    width: 30%;
+    height: 14rem;
+    background-image: url(1.webp);
+    background-size: cover;
+
+}
+.car2{
+    width: 50%;
+}
+.fourth-nav{
+    background-color: #707070;
+    width: 100%;
+    display: flex;
+    display: inline-block;
+    
+}
+.description{
+    height: auto;
+    width: 25%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-left: 2rem;
+    margin-top: -3rem;
+
+}
+.car3{
+    padding-left: 1rem;
+}
+.more{
+    text-align: center;
+    color: orange;
+    text-decoration: none;
+    padding-top: -1rem;
+    margin-bottom: 1rem;
+}
+
+.bike{
+    width: 30%;
+    height: 14rem;
+    background-image: url(5.webp);
+    background-size: cover;
+    display: flex;
+    display: inline-block;
+}
+.second-desc{
+    height: auto;
+    width: 25%;
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-left: 2rem;
+    margin-top: -3rem;
+    margin-right: 2rem;
+}
+.bike-hi{
+font-weight: bold;
+
+}
+
+
